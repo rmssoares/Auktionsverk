@@ -77,3 +77,7 @@ Pay attention to how the commas divide the different values, as the commas will 
 ### rand
 
 *If the SessionName is replaced by "rand"*, every table will have its values slightly tweaked in a random fashion. If there are no desires, the randomization that happens in the desires is the one provided by the *Massive Desires* section.
+
+## Authors
+
+* **Ricardo Soares** - [thyriki](https://github.com/thyriki)
