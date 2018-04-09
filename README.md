@@ -56,6 +56,7 @@ java agentworld.SessionManager SessionName 50000 data/text.txt
 ```
 
 **SessionName** - Designated by the user. Can be anything. There is a special case: If the name is set to *rand*, the values of the *.txt* will be randomly tweaked, when added to the system.
+
 **data/simpleauction.txt** - A possible pathname for a text file. It will populate our system according to the information depicted. 
 
 
