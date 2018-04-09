@@ -1,0 +1,306 @@
+--------//Account List (AccountId - Name - Credit) \\-------
+//Auctioneers\\
+0,Adam,10000
+1,Peter,10000
+2,Francis,10000
+3,Robert,10000
+4,Richard,10000
+5,Joseph,10000
+6,Stewart,10000
+7,God,10000
+8,Eve,20000
+9,James,20000
+10,Adam,1000
+11,Peter,1000
+12,Francis,1000
+13,Robert,1000
+14,Richard,1000
+15,Joseph,1000
+16,Stewart,1000
+17,God,1000
+18,Eve,2000
+19,James,2000
+20,Adam,1000
+21,Peter,1000
+22,Francis,1000
+23,Robert,1000
+24,Richard,1000
+25,Joseph,1000
+26,Stewart,1000
+27,God,1000
+28,Eve,2000
+29,James,2000
+30,Adam,100000
+31,Peter,100000
+32,Francis,100000
+33,Robert,100000
+34,Richard,100000
+35,Joseph,100000
+36,Stewart,100000
+37,God,100000
+38,Eve,200000
+39,James,200000
+40,Adam,1000000
+41,Peter,1000000
+42,Francis,1000000
+43,Robert,1000000
+44,Richard,1000000
+45,Joseph,1000000
+46,Stewart,1000000
+47,God,1000000
+48,Eve,2000000
+49,James,2000000
+50,Adam,1000000
+51,Peter,1000000
+52,Francis,1000000
+53,Robert,1000000
+54,Richard,1000000
+55,Joseph,1000000
+56,Stewart,1000000
+57,God,1000000
+58,Eve,2000000
+59,James,2000000
+60,Adam,10000
+61,Peter,10000
+62,Francis,10000
+63,Robert,10000
+64,Richard,10000
+65,Joseph,10000
+66,Stewart,10000
+67,God,10000
+68,Eve,20000
+69,James,20000
+70,Adam,10000
+71,Peter,10000
+72,Francis,10000
+73,Robert,10000
+74,Richard,10000
+75,Joseph,10000
+76,Stewart,10000
+77,God,10000
+78,Eve,20000
+79,James,20000
+80,Adam,10000
+81,Peter,10000
+82,Francis,10000
+83,Robert,10000
+84,Richard,10000
+85,Joseph,10000
+86,Stewart,10000
+87,God,10000
+88,Eve,20000
+89,James,20000
+90,Adam,10000
+91,Peter,10000
+92,Francis,10000
+93,Robert,10000
+94,Richard,10000
+95,Joseph,10000
+96,Stewart,10000
+97,God,10000
+98,Eve,20000
+99,James,20000
+
+//Bidder\\
+100,Adam,10000
+101,Peter,10000
+102,Francis,10000
+103,Robert,10000
+104,Richard,10000
+105,Joseph,10000
+106,Stewart,10000
+107,God,10000
+108,Eve,20000
+109,James,20000
+110,Adam,1000
+111,Peter,1000
+112,Francis,1000
+113,Robert,1000
+114,Richard,1000
+115,Joseph,1000
+116,Stewart,1000
+117,God,1000
+118,Eve,2000
+119,James,2000
+120,Adam,1000
+121,Peter,1000
+122,Francis,1000
+123,Robert,1000
+124,Richard,1000
+125,Joseph,1000
+126,Stewart,1000
+127,God,1000
+128,Eve,2000
+129,James,2000
+130,Adam,100000
+131,Peter,100000
+132,Francis,100000
+133,Robert,100000
+134,Richard,100000
+135,Joseph,100000
+136,Stewart,100000
+137,God,100000
+138,Eve,200000
+139,James,200000
+140,Adam,1000000
+141,Peter,1000000
+142,Francis,1000000
+143,Robert,1000000
+144,Richard,1000000
+145,Joseph,1000000
+146,Stewart,1000000
+147,God,1000000
+148,Eve,2000000
+149,James,2000000
+150,Adam,1000000
+151,Peter,1000000
+152,Francis,1000000
+153,Robert,1000000
+154,Richard,1000000
+155,Joseph,1000000
+156,Stewart,1000000
+157,God,1000000
+158,Eve,2000000
+159,James,2000000
+160,Adam,10000
+161,Peter,10000
+162,Francis,10000
+163,Robert,10000
+164,Richard,10000
+165,Joseph,10000
+166,Stewart,10000
+167,God,10000
+168,Eve,20000
+169,James,20000
+170,Adam,10000
+171,Peter,10000
+172,Francis,10000
+173,Robert,10000
+174,Richard,10000
+175,Joseph,10000
+176,Stewart,10000
+177,God,10000
+178,Eve,20000
+179,James,20000
+180,Adam,10000
+181,Peter,10000
+182,Francis,10000
+183,Robert,10000
+184,Richard,10000
+185,Joseph,10000
+186,Stewart,10000
+187,God,10000
+188,Eve,20000
+189,James,20000
+190,Adam,10000
+191,Peter,10000
+192,Francis,10000
+193,Robert,10000
+194,Richard,10000
+195,Joseph,10000
+196,Stewart,10000
+197,God,10000
+198,Eve,20000
+199,James,20000
+
+OwnerId - GoodName - InitialPrice - Reserve - Increase) \\-------
+0,Orange,20,10,0.1
+1,House,500,200,0.2
+2,Plastic Fork,30,20,0.3
+3,Scotch Tape,15,5,0.4
+4,Camera,23,22,0.3
+5,Bubblegum,0.05, 0.01,0.2
+6,Motorcycle,453.23,243.21,0.1
+7,Modern Approach to AI,1000,500,0.05
+8,Helmet,80,60,0.2
+9,Ticket to Heaven,1500,1500,0.4
+10,aOrange,20,10,0.1
+11,aHouse,500,200,0.2
+12,aPlastic Fork,30,20,0.3
+13,aScotch Tape,15,5,0.4
+14,aCamera,23,22,0.3
+15,aBubblegum,0.05, 0.01,0.2
+16,aMotorcycle,453.23,243.21,0.1
+17,aModern Approach to AI,1000,500,0.05
+18,aHelmet,80,60,0.2
+19,aTicket to Heaven,1500,1500,0.4
+20,bOrange,20,10,0.1
+21,bHouse,500,200,0.2
+22,bPlastic Fork,30,20,0.3
+23,bScotch Tape,15,5,0.4
+24,bCamera,23,22,0.3
+25,bBubblegum,0.05, 0.01,0.2
+26,bMotorcycle,453.23,243.21,0.1
+27,bModern Approach to AI,1000,500,0.05
+28,bHelmet,80,60,0.2
+29,bTicket to Heaven,1500,1500,0.4
+30,cOrange,20,10,0.1
+31,cHouse,500,200,0.2
+32,cPlastic Fork,30,20,0.3
+33,cScotch Tape,15,5,0.4
+34,cCamera,23,22,0.3
+35,cBubblegum,0.05, 0.01,0.2
+36,cMotorcycle,453.23,243.21,0.1
+37,cModern Approach to AI,1000,500,0.05
+38,cHelmet,80,60,0.2
+39,cTicket to Heaven,1500,1500,0.4
+40,dOrange,20,10,0.1
+41,dHouse,500,200,0.2
+42,dPlastic Fork,30,20,0.3
+43,dScotch Tape,15,5,0.4
+44,dCamera,23,22,0.3
+45,dBubblegum,0.05, 0.01,0.2
+46,dMotorcycle,453.23,243.21,0.1
+47,dModern Approach to AI,1000,500,0.05
+48,dHelmet,80,60,0.2
+49,dTicket to Heaven,1500,1500,0.4
+50,eOrange,20,10,0.1
+51,eHouse,500,200,0.2
+52,ePlastic Fork,30,20,0.3
+53,eScotch Tape,15,5,0.4
+54,eCamera,23,22,0.3
+55,eBubblegum,0.05, 0.01,0.2
+56,eMotorcycle,453.23,243.21,0.1
+57,eModern Approach to AI,1000,500,0.05
+58,eHelmet,80,60,0.2
+59,eTicket to Heaven,1500,1500,0.4
+60,fOrange,20,10,0.1
+61,fHouse,500,200,0.2
+62,fPlastic Fork,30,20,0.3
+63,fScotch Tape,15,5,0.4
+64,fCamera,23,22,0.3
+65,fBubblegum,0.05, 0.01,0.2
+66,fMotorcycle,453.23,243.21,0.1
+67,fModern Approach to AI,1000,500,0.05
+68,fHelmet,80,60,0.2
+69,fTicket to Heaven,1500,1500,0.4
+70,gOrange,20,10,0.1
+71,gHouse,500,200,0.2
+72,gPlastic Fork,30,20,0.3
+73,gScotch Tape,15,5,0.4
+74,gCamera,23,22,0.3
+75,gBubblegum,0.05, 0.01,0.2
+76,gMotorcycle,453.23,243.21,0.1
+77,gModern Approach to AI,1000,500,0.05
+78,gHelmet,80,60,0.2
+79,gTicket to Heaven,1500,1500,0.4
+80,hOrange,20,10,0.1
+81,hHouse,500,200,0.2
+82,hPlastic Fork,30,20,0.3
+83,hScotch Tape,15,5,0.4
+84,hCamera,23,22,0.3
+85,hBubblegum,0.05, 0.01,0.2
+86,hMotorcycle,453.23,243.21,0.1
+87,hModern Approach to AI,1000,500,0.05
+88,hHelmet,80,60,0.2
+89,hTicket to Heaven,1500,1500,0.4
+90,iOrange,20,10,0.1
+91,iHouse,500,200,0.2
+92,iPlastic Fork,30,20,0.3
+93,iScotch Tape,15,5,0.4
+94,iCamera,23,22,0.3
+95,iBubblegum,0.05, 0.01,0.2
+96,iMotorcycle,453.23,243.21,0.1
+97,iModern Approach to AI,1000,500,0.05
+98,iHelmet,80,60,0.2
+99,iTicket to Heaven,1500,1500,0.4

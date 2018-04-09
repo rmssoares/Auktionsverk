@@ -1,0 +1,16 @@
+--------//Account List (AccountId - Name - Credit) \\-------
+0,Adam,1000
+1,Peter,1000
+3,Francis,1000
+21,Robert,1000
+5,Richard,1000
+6,Joseph,1000
+23,Stewart,1000
+8,God,1000
+9,Eve,2000
+--------//Belongings (OwnerId - GoodName - InitialPrice - Reserve - Increase) \\-------
+0,Tree of Eden,1000,200,0.4
+--------//Desires (InterestedId - GoodName - MaxPrice - Increase) \\-------
+1,Tree of Eden,350,0.2
+21,Tree of Eden,350,0.2
+3,Tree of Eden,350,0.2

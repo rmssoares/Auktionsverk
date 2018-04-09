@@ -1,0 +1,47 @@
+--------//Account List (AccountId - Name - Credit) \\-------
+//Auctioneers\\
+20,Adam,1000
+21,Peter,1000
+22,Francis,1000
+23,Robert,1000
+24,Richard,1000
+25,Joseph,1000
+26,Stewart,1000
+27,God,1000
+28,Eve,2000
+29,James,2000
+
+//Bidders\\
+
+0,Adam,10000
+1,Peter,10000
+2,Francis,10000
+3,Robert,10000
+4,Richard,10000
+5,Joseph,10000
+6,Stewart,10000
+7,God,10000
+8,Eve,20000
+9,James,20000
+10,Adam,10000
+11,Peter,10000
+12,Francis,10000
+13,Robert,10000
+14,Richard,10000
+15,Joseph,10000
+16,Stewart,10000
+17,God,10000
+18,Eve,20000
+19,James,20000
+
+OwnerId - GoodName - InitialPrice - Reserve - Increase) \\-------
+20,Orange,20,10,0.1
+21,House,500,200,0.2
+22,Plastic Fork,30,20,0.3
+23,Scotch Tape,15,5,0.4
+24,Camera,23,22,0.3
+25,Bubblegum,0.05, 0.01,0.2
+26,Motorcycle,453.23,243.21,0.1
+27,Modern Approach to AI,1000,500,0.05
+28,Helmet,80,60,0.2
+29,Ticket to Heaven,1500,1500,0.4

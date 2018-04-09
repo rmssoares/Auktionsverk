@@ -1,0 +1,43 @@
+--------//Account List (AccountId - Name - Credit) \\-------
+0,Adam,1000
+1,Peter,1000
+3,Francis,1000
+21,Robert,1000
+5,Richard,1000
+6,Joseph,1000
+23,Stewart,1000
+8,God,1000
+9,Eve,2000
+16,Thomas,3000
+25,Margaret,500
+655,John,1400
+10,Jack,5600
+12,Ann,100000
+2,None,300
+351918281,Richard,2
+34,Me,84100
+--------//Belongings (OwnerId - GoodName - InitialPrice - Reserve - Increase) \\-------
+0,Tree of Eden,1000,200,0.4
+351918281,Nothing at all,0,1,0.1
+34,Cellphone,110,32,0.5
+8,Everything,99999,3,1000
+5,Cellphone,21,50,2.6
+22,Machine gun,301,16,0.8
+3,Machine gun,150,4,0.9
+23,Wallet,465,24,3
+9,Apple,15,260,0.4
+1,Scrap,2,3685,2
+3,Wallet,466,23,0.7
+--------//Desires (InterestedId - GoodName - MaxPrice - Increase) \\-------
+1,Tree of Eden,350,0.2
+21,Tree of Eden,350,0.2
+3,Tree of Eden,350,0.2
+34,Everything,10,5
+9,Everything,210000,2
+5,Everything,100000,0.1
+12,Everything,100001,1
+34,Scrap,7000,0.1
+2,Machine gun,300,0.5
+655,Cellphone,120,7.5
+8,Nothing at all,2,0.6
+0,Apple,31,0.4

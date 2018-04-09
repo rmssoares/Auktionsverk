@@ -1,0 +1,57 @@
+--------//Account List (AccountId - Name - Credit) \\-------
+//Auctioneers\\
+10,Adam,1000
+11,Peter,1000
+12,Francis,1000
+13,Robert,1000
+14,Richard,1000
+15,Joseph,1000
+16,Stewart,1000
+17,God,1000
+18,Eve,2000
+19,James,2000
+20,Adam,1000
+21,Peter,1000
+22,Francis,1000
+23,Robert,1000
+24,Richard,1000
+25,Joseph,1000
+26,Stewart,1000
+27,God,1000
+28,Eve,2000
+29,James,2000
+
+//Bidders\\
+
+0,Adam,1000000
+1,Peter,1000000
+2,Francis,1000000
+3,Robert,1000000
+4,Richard,1000000
+5,Joseph,1000000
+6,Stewart,1000000
+7,God,1000000
+8,Eve,2000000
+9,James,2000000
+
+OwnerId - GoodName - InitialPrice - Reserve - Increase) \\-------
+10,Orange,20,10,0.1
+11,House,500,200,0.2
+12,Plastic Fork,30,20,0.3
+13,Scotch Tape,15,5,0.4
+14,Camera,23,22,0.3
+15,Bubblegum,0.05, 0.01,0.2
+16,Motorcycle,453.23,243.21,0.1
+17,Modern Approach to AI,1000,500,0.05
+18,Helmet,80,60,0.2
+19,Ticket to Heaven,1500,1500,0.4
+20,aOrange,20,10,0.1
+21,aHouse,500,200,0.2
+22,aPlastic Fork,30,20,0.3
+23,aScotch Tape,15,5,0.4
+24,aCamera,23,22,0.3
+25,aBubblegum,0.05, 0.01,0.2
+26,aMotorcycle,453.23,243.21,0.1
+27,aModern Approach to AI,1000,500,0.05
+28,aHelmet,80,60,0.2
+29,aTicket to Heaven,1500,1500,0.4

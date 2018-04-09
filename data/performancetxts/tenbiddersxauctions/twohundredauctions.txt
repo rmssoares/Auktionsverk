@@ -1,0 +1,417 @@
+--------//Account List (AccountId - Name - Credit) \\-------
+//Auctioneers\\
+10,Adam,1000
+11,Peter,1000
+12,Francis,1000
+13,Robert,1000
+14,Richard,1000
+15,Joseph,1000
+16,Stewart,1000
+17,God,1000
+18,Eve,2000
+19,James,2000
+20,Adam,1000
+21,Peter,1000
+22,Francis,1000
+23,Robert,1000
+24,Richard,1000
+25,Joseph,1000
+26,Stewart,1000
+27,God,1000
+28,Eve,2000
+29,James,2000
+30,Adam,1000
+31,Peter,1000
+32,Francis,1000
+33,Robert,1000
+34,Richard,1000
+35,Joseph,1000
+36,Stewart,1000
+37,God,1000
+38,Eve,2000
+39,James,2000
+40,Adam,1000
+41,Peter,1000
+42,Francis,1000
+43,Robert,1000
+44,Richard,1000
+45,Joseph,1000
+46,Stewart,1000
+47,God,1000
+48,Eve,2000
+49,James,2000
+50,Adam,1000
+51,Peter,1000
+52,Francis,1000
+53,Robert,1000
+54,Richard,1000
+55,Joseph,1000
+56,Stewart,1000
+57,God,1000
+58,Eve,2000
+59,James,2000
+60,Adam,1000
+61,Peter,1000
+62,Francis,1000
+63,Robert,1000
+64,Richard,1000
+65,Joseph,1000
+66,Stewart,1000
+67,God,1000
+68,Eve,2000
+69,James,2000
+70,Adam,1000
+71,Peter,1000
+72,Francis,1000
+73,Robert,1000
+74,Richard,1000
+75,Joseph,1000
+76,Stewart,1000
+77,God,1000
+78,Eve,2000
+79,James,2000
+80,Adam,1000
+81,Peter,1000
+82,Francis,1000
+83,Robert,1000
+84,Richard,1000
+85,Joseph,1000
+86,Stewart,1000
+87,God,1000
+88,Eve,2000
+89,James,2000
+90,Adam,1000
+91,Peter,1000
+92,Francis,1000
+93,Robert,1000
+94,Richard,1000
+95,Joseph,1000
+96,Stewart,1000
+97,God,1000
+98,Eve,2000
+99,James,2000
+100,Adam,1000
+101,Peter,1000
+102,Francis,1000
+103,Robert,1000
+104,Richard,1000
+105,Joseph,1000
+106,Stewart,1000
+107,God,1000
+108,Eve,2000
+109,James,2000
+110,Adam,1000
+111,Peter,1000
+112,Francis,1000
+113,Robert,1000
+114,Richard,1000
+115,Joseph,1000
+116,Stewart,1000
+117,God,1000
+118,Eve,2000
+119,James,2000
+120,Adam,1000
+121,Peter,1000
+122,Francis,1000
+123,Robert,1000
+124,Richard,1000
+125,Joseph,1000
+126,Stewart,1000
+127,God,1000
+128,Eve,2000
+129,James,2000
+130,Adam,1000
+131,Peter,1000
+132,Francis,1000
+133,Robert,1000
+134,Richard,1000
+135,Joseph,1000
+136,Stewart,1000
+137,God,1000
+138,Eve,2000
+139,James,2000
+140,Adam,1000
+141,Peter,1000
+142,Francis,1000
+143,Robert,1000
+144,Richard,1000
+145,Joseph,1000
+146,Stewart,1000
+147,God,1000
+148,Eve,2000
+149,James,2000
+150,Adam,1000
+151,Peter,1000
+152,Francis,1000
+153,Robert,1000
+154,Richard,1000
+155,Joseph,1000
+156,Stewart,1000
+157,God,1000
+158,Eve,2000
+159,James,2000
+160,Adam,1000
+161,Peter,1000
+162,Francis,1000
+163,Robert,1000
+164,Richard,1000
+165,Joseph,1000
+166,Stewart,1000
+167,God,1000
+168,Eve,2000
+169,James,2000
+170,Adam,1000
+171,Peter,1000
+172,Francis,1000
+173,Robert,1000
+174,Richard,1000
+175,Joseph,1000
+176,Stewart,1000
+177,God,1000
+178,Eve,2000
+179,James,2000
+180,Adam,1000
+181,Peter,1000
+182,Francis,1000
+183,Robert,1000
+184,Richard,1000
+185,Joseph,1000
+186,Stewart,1000
+187,God,1000
+188,Eve,2000
+189,James,2000
+190,Adam,1000
+191,Peter,1000
+192,Francis,1000
+193,Robert,1000
+194,Richard,1000
+195,Joseph,1000
+196,Stewart,1000
+197,God,1000
+198,Eve,2000
+199,James,2000
+200,Adam,1000
+201,Peter,1000
+202,Francis,1000
+203,Robert,1000
+204,Richard,1000
+205,Joseph,1000
+206,Stewart,1000
+207,God,1000
+208,Eve,2000
+209,James,2000
+
+//Bidders\\
+
+0,Adam,1000000
+1,Peter,1000000
+2,Francis,1000000
+3,Robert,1000000
+4,Richard,1000000
+5,Joseph,1000000
+6,Stewart,1000000
+7,God,1000000
+8,Eve,2000000
+9,James,2000000
+
+OwnerId - GoodName - InitialPrice - Reserve - Increase) \\-------
+10,Orange,20,10,0.1
+11,House,500,200,0.2
+12,Plastic Fork,30,20,0.3
+13,Scotch Tape,15,5,0.4
+14,Camera,23,22,0.3
+15,Bubblegum,0.05, 0.01,0.2
+16,Motorcycle,453.23,243.21,0.1
+17,Modern Approach to AI,1000,500,0.05
+18,Helmet,80,60,0.2
+19,Ticket to Heaven,1500,1500,0.4
+20,aOrange,20,10,0.1
+21,aHouse,500,200,0.2
+22,aPlastic Fork,30,20,0.3
+23,aScotch Tape,15,5,0.4
+24,aCamera,23,22,0.3
+25,aBubblegum,0.05, 0.01,0.2
+26,aMotorcycle,453.23,243.21,0.1
+27,aModern Approach to AI,1000,500,0.05
+28,aHelmet,80,60,0.2
+29,aTicket to Heaven,1500,1500,0.4
+30,bOrange,20,10,0.1
+31,bHouse,500,200,0.2
+32,bPlastic Fork,30,20,0.3
+33,bScotch Tape,15,5,0.4
+34,bCamera,23,22,0.3
+35,bBubblegum,0.05, 0.01,0.2
+36,bMotorcycle,453.23,243.21,0.1
+37,bModern Approach to AI,1000,500,0.05
+38,bHelmet,80,60,0.2
+39,bTicket to Heaven,1500,1500,0.4
+40,cOrange,20,10,0.1
+41,cHouse,500,200,0.2
+42,cPlastic Fork,30,20,0.3
+43,cScotch Tape,15,5,0.4
+44,cCamera,23,22,0.3
+45,cBubblegum,0.05, 0.01,0.2
+46,cMotorcycle,453.23,243.21,0.1
+47,cModern Approach to AI,1000,500,0.05
+48,cHelmet,80,60,0.2
+49,cTicket to Heaven,1500,1500,0.4
+50,dOrange,20,10,0.1
+51,dHouse,500,200,0.2
+52,dPlastic Fork,30,20,0.3
+53,dScotch Tape,15,5,0.4
+54,dCamera,23,22,0.3
+55,dBubblegum,0.05, 0.01,0.2
+56,dMotorcycle,453.23,243.21,0.1
+57,dModern Approach to AI,1000,500,0.05
+58,dHelmet,80,60,0.2
+59,dTicket to Heaven,1500,1500,0.4
+60,eOrange,20,10,0.1
+61,eHouse,500,200,0.2
+62,ePlastic Fork,30,20,0.3
+63,eScotch Tape,15,5,0.4
+64,eCamera,23,22,0.3
+65,eBubblegum,0.05, 0.01,0.2
+66,eMotorcycle,453.23,243.21,0.1
+67,eModern Approach to AI,1000,500,0.05
+68,eHelmet,80,60,0.2
+69,eTicket to Heaven,1500,1500,0.4
+70,fOrange,20,10,0.1
+71,fHouse,500,200,0.2
+72,fPlastic Fork,30,20,0.3
+73,fScotch Tape,15,5,0.4
+74,fCamera,23,22,0.3
+75,fBubblegum,0.05, 0.01,0.2
+76,fMotorcycle,453.23,243.21,0.1
+77,fModern Approach to AI,1000,500,0.05
+78,fHelmet,80,60,0.2
+79,fTicket to Heaven,1500,1500,0.4
+80,gOrange,20,10,0.1
+81,gHouse,500,200,0.2
+82,gPlastic Fork,30,20,0.3
+83,gScotch Tape,15,5,0.4
+84,gCamera,23,22,0.3
+85,gBubblegum,0.05, 0.01,0.2
+86,gMotorcycle,453.23,243.21,0.1
+87,gModern Approach to AI,1000,500,0.05
+88,gHelmet,80,60,0.2
+89,gTicket to Heaven,1500,1500,0.4
+90,hOrange,20,10,0.1
+91,hHouse,500,200,0.2
+92,hPlastic Fork,30,20,0.3
+93,hScotch Tape,15,5,0.4
+94,hCamera,23,22,0.3
+95,hBubblegum,0.05, 0.01,0.2
+96,hMotorcycle,453.23,243.21,0.1
+97,hModern Approach to AI,1000,500,0.05
+98,hHelmet,80,60,0.2
+99,hTicket to Heaven,1500,1500,0.4
+100,iOrange,20,10,0.1
+101,iHouse,500,200,0.2
+102,iPlastic Fork,30,20,0.3
+103,iScotch Tape,15,5,0.4
+104,iCamera,23,22,0.3
+105,iBubblegum,0.05, 0.01,0.2
+106,iMotorcycle,453.23,243.21,0.10
+107,iModern Approach to AI,1000,500,0.05
+108,iHelmet,80,60,0.2
+109,iTicket to Heaven,1500,1500,0.4
+110,jOrange,20,10,0.1
+111,jHouse,500,200,0.2
+112,jPlastic Fork,30,20,0.3
+113,jScotch Tape,15,5,0.4
+114,jCamera,23,22,0.3
+115,jBubblegum,0.05, 0.01,0.2
+116,jMotorcycle,453.23,243.21,0.1
+117,jModern Approach to AI,1000,500,0.05
+118,jHelmet,80,60,0.2
+119,jTicket to Heaven,1500,1500,0.4
+120,kOrange,20,10,0.1
+121,kHouse,500,200,0.2
+122,kPlastic Fork,30,20,0.3
+123,kScotch Tape,15,5,0.4
+124,kCamera,23,22,0.3
+125,kBubblegum,0.05, 0.01,0.2
+126,kMotorcycle,453.23,243.21,0.1
+127,kModern Approach to AI,1000,500,0.05
+128,kHelmet,80,60,0.2
+129,kTicket to Heaven,1500,1500,0.4
+130,lOrange,20,10,0.1
+131,lHouse,500,200,0.2
+132,lPlastic Fork,30,20,0.3
+133,lScotch Tape,15,5,0.4
+134,lCamera,23,22,0.3
+135,lBubblegum,0.05, 0.01,0.2
+136,lMotorcycle,453.23,243.21,0.1
+137,lModern Approach to AI,1000,500,0.05
+138,lHelmet,80,60,0.2
+139,lTicket to Heaven,1500,1500,0.4
+140,mOrange,20,10,0.1
+141,mHouse,500,200,0.2
+142,mPlastic Fork,30,20,0.3
+143,mScotch Tape,15,5,0.4
+144,mCamera,23,22,0.3
+145,mBubblegum,0.05, 0.01,0.2
+146,mMotorcycle,453.23,243.21,0.1
+147,mModern Approach to AI,1000,500,0.05
+148,mHelmet,80,60,0.2
+149,mTicket to Heaven,1500,1500,0.4
+150,nOrange,20,10,0.1
+151,nHouse,500,200,0.2
+152,nPlastic Fork,30,20,0.3
+153,nScotch Tape,15,5,0.4
+154,nCamera,23,22,0.3
+155,nBubblegum,0.05, 0.01,0.2
+156,nMotorcycle,453.23,243.21,0.1
+157,nModern Approach to AI,1000,500,0.05
+158,nHelmet,80,60,0.2
+159,nTicket to Heaven,1500,1500,0.4
+160,oOrange,20,10,0.1
+161,oHouse,500,200,0.2
+162,oPlastic Fork,30,20,0.3
+163,oScotch Tape,15,5,0.4
+164,oCamera,23,22,0.3
+165,oBubblegum,0.05, 0.01,0.2
+166,oMotorcycle,453.23,243.21,0.1
+167,oModern Approach to AI,1000,500,0.05
+168,oHelmet,80,60,0.2
+169,oTicket to Heaven,1500,1500,0.4
+170,pOrange,20,10,0.1
+171,pHouse,500,200,0.2
+172,pPlastic Fork,30,20,0.3
+173,pScotch Tape,15,5,0.4
+174,pCamera,23,22,0.3
+175,pBubblegum,0.05, 0.01,0.2
+176,pMotorcycle,453.23,243.21,0.1
+177,pModern Approach to AI,1000,500,0.05
+178,pHelmet,80,60,0.2
+179,pTicket to Heaven,1500,1500,0.4
+180,qOrange,20,10,0.1
+181,qHouse,500,200,0.2
+182,qPlastic Fork,30,20,0.3
+183,qScotch Tape,15,5,0.4
+184,qCamera,23,22,0.3
+185,qBubblegum,0.05, 0.01,0.2
+186,qMotorcycle,453.23,243.21,0.1
+187,qModern Approach to AI,1000,500,0.05
+188,qHelmet,80,60,0.2
+189,qTicket to Heaven,1500,1500,0.4
+190,rOrange,20,10,0.1
+191,rHouse,500,200,0.2
+192,rPlastic Fork,30,20,0.3
+193,rScotch Tape,15,5,0.4
+194,rCamera,23,22,0.3
+195,rBubblegum,0.05, 0.01,0.2
+196,rMotorcycle,453.23,243.21,0.1
+197,rModern Approach to AI,1000,500,0.05
+198,rHelmet,80,60,0.2
+199,rTicket to Heaven,1500,1500,0.4
+200,sOrange,20,10,0.1
+201,sHouse,500,200,0.2
+202,sPlastic Fork,30,20,0.3
+203,sScotch Tape,15,5,0.4
+204,sCamera,23,22,0.3
+205,sBubblegum,0.05, 0.01,0.2
+206,sMotorcycle,453.23,243.21,0.10
+207,sModern Approach to AI,1000,500,0.05
+208,sHelmet,80,60,0.2
+209,sTicket to Heaven,1500,1500,0.4

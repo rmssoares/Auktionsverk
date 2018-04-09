@@ -1,0 +1,67 @@
+--------//Account List (AccountId - Name - Credit) \\-------
+//Auctioneers\\
+0,Adam,10000
+1,Peter,10000
+2,Francis,10000
+3,Robert,10000
+4,Richard,10000
+5,Joseph,10000
+6,Stewart,10000
+7,God,10000
+8,Eve,20000
+9,James,20000
+10,Adam,1000
+11,Peter,1000
+12,Francis,1000
+13,Robert,1000
+14,Richard,1000
+15,Joseph,1000
+16,Stewart,1000
+17,God,1000
+18,Eve,2000
+19,James,2000
+
+//Bidders\\
+
+20,Adam,100000
+21,Peter,100000
+22,Francis,100000
+23,Robert,100000
+24,Richard,100000
+25,Joseph,100000
+26,Stewart,100000
+27,God,100000
+28,Eve,200000
+29,James,200000
+30,Adam,100000
+31,Peter,100000
+32,Francis,100000
+33,Robert,100000
+34,Richard,100000
+35,Joseph,100000
+36,Stewart,100000
+37,God,100000
+38,Eve,200000
+39,James,200000
+
+OwnerId - GoodName - InitialPrice - Reserve - Increase) \\-------
+0,Orange,20,10,0.1
+1,House,500,200,0.2
+2,Plastic Fork,30,20,0.3
+3,Scotch Tape,15,5,0.4
+4,Camera,23,22,0.3
+5,Bubblegum,0.05, 0.01,0.2
+6,Motorcycle,453.23,243.21,0.1
+7,Modern Approach to AI,1000,500,0.05
+8,Helmet,80,60,0.2
+9,Ticket to Heaven,1500,1500,0.4
+10,aOrange,20,10,0.1
+11,aHouse,500,200,0.2
+12,aPlastic Fork,30,20,0.3
+13,aScotch Tape,15,5,0.4
+14,aCamera,23,22,0.3
+15,aBubblegum,0.05, 0.01,0.2
+16,aMotorcycle,453.23,243.21,0.1
+17,aModern Approach to AI,1000,500,0.05
+18,aHelmet,80,60,0.2
+19,aTicket to Heaven,1500,1500,0.4

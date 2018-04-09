@@ -1,0 +1,118 @@
+--------//Account List (AccountId - Name - Credit) \\-------
+//Auctioneers\\
+10,Adam,1000
+11,Peter,1000
+12,Francis,1000
+13,Robert,1000
+14,Richard,1000
+15,Joseph,1000
+16,Stewart,1000
+17,God,1000
+18,Eve,2000
+19,James,2000
+20,Adam,1000
+21,Peter,1000
+22,Francis,1000
+23,Robert,1000
+24,Richard,1000
+25,Joseph,1000
+26,Stewart,1000
+27,God,1000
+28,Eve,2000
+29,James,2000
+30,Adam,1000
+31,Peter,1000
+32,Francis,1000
+33,Robert,1000
+34,Richard,1000
+35,Joseph,1000
+36,Stewart,1000
+37,God,1000
+38,Eve,2000
+39,James,2000
+40,Adam,1000
+41,Peter,1000
+42,Francis,1000
+43,Robert,1000
+44,Richard,1000
+45,Joseph,1000
+46,Stewart,1000
+47,God,1000
+48,Eve,2000
+49,James,2000
+50,Adam,1000
+51,Peter,1000
+52,Francis,1000
+53,Robert,1000
+54,Richard,1000
+55,Joseph,1000
+56,Stewart,1000
+57,God,1000
+58,Eve,2000
+59,James,2000
+
+//Bidders\\
+
+0,Adam,1000000
+1,Peter,1000000
+2,Francis,1000000
+3,Robert,1000000
+4,Richard,1000000
+5,Joseph,1000000
+6,Stewart,1000000
+7,God,1000000
+8,Eve,2000000
+9,James,2000000
+
+OwnerId - GoodName - InitialPrice - Reserve - Increase) \\-------
+10,Orange,20,10,0.1
+10,Orange,20,10,0.1
+11,House,500,200,0.2
+12,Plastic Fork,30,20,0.3
+13,Scotch Tape,15,5,0.4
+14,Camera,23,22,0.3
+15,Bubblegum,0.05, 0.01,0.2
+16,Motorcycle,453.23,243.21,0.1
+17,Modern Approach to AI,1000,500,0.05
+18,Helmet,80,60,0.2
+19,Ticket to Heaven,1500,1500,0.4
+20,aOrange,20,10,0.1
+21,aHouse,500,200,0.2
+22,aPlastic Fork,30,20,0.3
+23,aScotch Tape,15,5,0.4
+24,aCamera,23,22,0.3
+25,aBubblegum,0.05, 0.01,0.2
+26,aMotorcycle,453.23,243.21,0.1
+27,aModern Approach to AI,1000,500,0.05
+28,aHelmet,80,60,0.2
+29,aTicket to Heaven,1500,1500,0.4
+30,bOrange,20,10,0.1
+31,bHouse,500,200,0.2
+32,bPlastic Fork,30,20,0.3
+33,bScotch Tape,15,5,0.4
+34,bCamera,23,22,0.3
+35,bBubblegum,0.05, 0.01,0.2
+36,bMotorcycle,453.23,243.21,0.1
+37,bModern Approach to AI,1000,500,0.05
+38,bHelmet,80,60,0.2
+39,bTicket to Heaven,1500,1500,0.4
+40,cOrange,20,10,0.1
+41,cHouse,500,200,0.2
+42,cPlastic Fork,30,20,0.3
+43,cScotch Tape,15,5,0.4
+44,cCamera,23,22,0.3
+45,cBubblegum,0.05, 0.01,0.2
+46,cMotorcycle,453.23,243.21,0.1
+47,cModern Approach to AI,1000,500,0.05
+48,cHelmet,80,60,0.2
+49,cTicket to Heaven,1500,1500,0.4
+50,dOrange,20,10,0.1
+51,dHouse,500,200,0.2
+52,dPlastic Fork,30,20,0.3
+53,dScotch Tape,15,5,0.4
+54,dCamera,23,22,0.3
+55,dBubblegum,0.05, 0.01,0.2
+56,dMotorcycle,453.23,243.21,0.1
+57,dModern Approach to AI,1000,500,0.05
+58,dHelmet,80,60,0.2
+59,dTicket to Heaven,1500,1500,0.4
