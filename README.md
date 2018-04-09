@@ -59,7 +59,7 @@ java agentworld.SessionManager SessionName 50000 data/text.txt
 **data/simpleauction.txt** - A possible pathname for a text file. It will populate our system according to the information depicted. 
 
 
-### Extra Functionalities
+## Extra Functionalities
 
 Grow accustomed to the template of the textfiles. It represents three "tables":
 
@@ -68,10 +68,11 @@ Grow accustomed to the template of the textfiles. It represents three "tables":
 * Each entry in the third table represents an *AuctionPlayer's Id*, and the *Auction Item's name, Bideer's highest price* and *Bidder's increase*.
 
 Pay attention to how the commas divide the different values, as the commas will be the separator of each line.
-## Populate Massive Desires
+
+### Populate Massive Desires
 
 *If the third table does not exist*, then, there are no preset "Desires" (representative of the things a Bidder wants). In this case, every Bidder will have a Desire for *every single Auction Item*. The values are randomized, yet constrained in specific ranges, as it can be found in the *AuctionFile* code.
 
-## rand
+### rand
 
 *If the SessionName is replaced by "rand"*, every table will have its values slightly tweaked in a random fashion. If there are no desires, the randomization that happens in the desires is the one provided by the *Massive Desires* section.
