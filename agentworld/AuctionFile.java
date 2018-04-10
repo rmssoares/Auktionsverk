@@ -176,7 +176,6 @@ public class AuctionFile {
 		this.reserve = Double.parseDouble(itemFile[3]);
 		this.increase = Double.parseDouble(itemFile[4]);
 		if(random) {
-			System.out.println("IT WORKS, FRIEND!");
 			initialPrice *= (0.8 + Math.random() * 0.4);
 			reserve *= (0.8 + Math.random() * 0.4);
 			increase *= (0.8 + Math.random() * 0.4);
