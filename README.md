@@ -81,3 +81,5 @@ Pay attention to how the commas divide the different values, as the commas will 
 ## Authors
 
 * **Ricardo Soares** - [thyriki](https://github.com/thyriki)
+
+For any inquiries, feel free to open up an issue.
