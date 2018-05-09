@@ -48,11 +48,11 @@ Start a third terminal and run the following command:
 
 *Windows:*
 ```
-java agentworld/SessionManager SessionName 50000 data/text.txt
+java agentworld/SessionGenerator SessionName 50000 data/text.txt
 ```
 *Linux:*
 ```
-java agentworld.SessionManager SessionName 50000 data/text.txt
+java agentworld.SessionGenerator SessionName 50000 data/text.txt
 ```
 
 **SessionName** - Designated by the user. Can be anything. There is a special case: If the name is set to *rand*, the values of the *.txt* will be randomly tweaked, when added to the system.
