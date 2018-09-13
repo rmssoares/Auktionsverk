@@ -62,7 +62,7 @@ java agentworld.SessionGenerator SessionName 50000 data/text.txt
 
 ## Extra Functionalities
 
-Grow accustomed to the template of the textfiles. It represents three "tables":
+It's necessary to understand the template of the textfiles. It represents three "tables":
 
 * Each entry in the first table represents an *AuctionPlayer's Id*, *AuctionPlayer's name* and *AuctionPlayer's credit*.
 * Each entry in the second table represents an *AuctionPlayer's Id*, and the *Auction Item's name, Auctioneer's initial price, Auctioneer's reserve price* and *Auctioneer's increase*. 
