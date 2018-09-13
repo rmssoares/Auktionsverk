@@ -4,7 +4,7 @@ The Auktionsverk simulates an Auction House, where Auctions happen concurrently.
 
 ## Getting Started
 
-The software provided was entirely done in *Java*. To start, clone the present repository into your local machine. If you're unaware of how to achieve this, please become familiar with the mechanisms of [GitHub](https://help.github.com/articles/set-up-git) repositories.
+The software provided was entirely done in *Java*. To start, clone the present repository into your local machine. If you're unaware of how to achieve this, you can familiarise yourself with the mechanisms of [GitHub](https://help.github.com/articles/set-up-git) repositories in the provided link.
 
 ```
 git clone git@github.com:thyriki/Auktionsverk.git
