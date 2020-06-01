@@ -80,6 +80,6 @@ Pay attention to how the commas divide the different values, as the commas will 
 
 ## Authors
 
-* **Ricardo Soares** - [thyriki](https://github.com/rmssoares)
+* **Ricardo Soares** - [rmssoares](https://github.com/rmssoares)
 
 For any inquiries, feel free to open up an issue.
