@@ -33,11 +33,6 @@ Two classes are going to be executed. [AuctionHouse.java](https://github.com/thy
 
 In the second terminal, run the following command:
 
-*Windows:*
-```
-java agentworld/AuctionHouse 50000
-```
-*Linux:*
 ```
 java agentworld.AuctionHouse 50000
 ```
@@ -46,11 +41,6 @@ This will initialize the *AuctionHouse* and register it in the *RMI Registry*. T
 
 Start a third terminal and run the following command:
 
-*Windows:*
-```
-java agentworld/SessionGenerator SessionName 50000 data/text.txt
-```
-*Linux:*
 ```
 java agentworld.SessionGenerator SessionName 50000 data/text.txt
 ```
